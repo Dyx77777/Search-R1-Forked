@@ -1,4 +1,4 @@
-# Search-R1: Train your LLMs to reason and call a search engine with reinforcement learning[Paper Fork][4800+stars on Github]
+# Search-R1: Train your LLMs to reason and call a search engine with reinforcement learning[Paper-Fork][4800+stars on Github]
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PeterGriffinJin/Search-R1/main/public/logo.png" alt="logo" width="300"/>
